@@ -1,6 +1,6 @@
 baseURL = "https://fieldnotes-kh.github.io/"
 languageCode = "ko-kr"
-title = "오늘의 배당·시황 노트"
+title = "배당·연금 절세 노트"
 theme = "PaperMod"
 paginate = 10
 enableRobotsTXT = true
@@ -21,8 +21,8 @@ buildExpired = false
   comments = false
 
   [params.homeInfoParams]
-    Title = "오늘의 배당·시황 노트"
-    Content = "배당, 배당락일, 시황 등을 쉬운 말로 정리하는 개인 노트입니다."
+    Title = "배당·연금 절세 노트"
+    Content = "배당, 배당락일, 연금저축·IRP 세액공제 같은 주제를 쉬운 말로 정리하는 개인 노트입니다."
 
 [[menu.main]]
   identifier = "posts"
