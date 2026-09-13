@@ -1,7 +1,7 @@
 ---
 title: "IRP 디폴트옵션 뜻과 설정 방법, 안 하면 어떻게 될까"
 date: 2026-09-13
-draft: true
+draft: false
 categories: ["IRP"]
 tags: ["IRP", "디폴트옵션", "사전지정운용제도"]
 description: "IRP 디폴트옵션이 무엇인지, 설정하지 않으면 어떻게 되는지, 상품 유형별 특징을 정리합니다."

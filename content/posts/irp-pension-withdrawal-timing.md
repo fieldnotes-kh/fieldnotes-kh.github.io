@@ -1,7 +1,7 @@
 ---
 title: "IRP 연금 수령 시기, 언제 받아야 세금이 유리할까"
 date: 2026-09-13
-draft: true
+draft: false
 categories: ["IRP"]
 tags: ["IRP", "연금수령", "연금소득세", "세금"]
 description: "IRP 연금을 몇 살부터, 몇 년에 걸쳐 받아야 세금이 유리한지 수령 나이와 연금소득세율 구조를 기준으로 정리합니다."

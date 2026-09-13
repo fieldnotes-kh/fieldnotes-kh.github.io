@@ -1,7 +1,7 @@
 ---
 title: "IRP 계좌 운용 방법, 초보자가 처음 알아야 할 것들"
 date: 2026-09-13
-draft: true
+draft: false
 categories: ["IRP"]
 tags: ["IRP", "자산배분", "위험자산한도", "초보"]
 description: "IRP 계좌를 처음 운용할 때 알아야 할 위험자산 한도 규정과 초보자에게 맞는 자산배분 예시를 정리합니다."
