@@ -1,5 +1,6 @@
 baseURL = "https://fieldnotes-kh.github.io/"
 languageCode = "ko-kr"
+timeZone = "Asia/Seoul"
 title = "배당·연금 절세 노트"
 theme = "PaperMod"
 paginate = 10
